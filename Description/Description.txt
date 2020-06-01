@@ -1,0 +1,12 @@
+The Program (demo.go.) is to call the three apis which are 
+
+1.Avengers (http://www.mocky.io/v2/5ecfd5dc3200006200e3d64b)
+
+2.Anti heroes (http://www.mocky.io/v2/5ed49b033300005400f7a25f)
+
+3.Mutants (http://www.mocky.io/v2/5ecfd6473200009dc1e3d64e)
+ 
+they have the list of characters and its power levels. 
+
+Here the api's are called in parallel and the response is been stored in a data structure.
+Type casting is been done for the max_power to display the data as required.
